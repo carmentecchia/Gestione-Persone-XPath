@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<persone>
+    <persona id="1">
+        <nome>Carmen</nome>
+        <cognome>Tecchia</cognome>
+        <eta>30</eta>
+    </persona>
+</persone>
